@@ -72,7 +72,7 @@ class BaseStegoContainer:
         :return:
         """
 
-    def useful_area(self):
+    def working_area(self):
         """
         Итератор, возвращающий биты полезной области контейнера
 
@@ -93,7 +93,7 @@ class BaseStegoContainer:
     @property
     def len_useful_area(self):
         count = 0
-        for _ in self.useful_area:
+        for _ in self.working_area:
             count += 1
             continue
         return count

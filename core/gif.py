@@ -79,7 +79,7 @@ class GifLayerContainer(BaseStegoContainer):
         # TODO
         pass
 
-    def useful_area(self):
+    def working_area(self):
         """
         # TODO
         :return:
@@ -115,7 +115,7 @@ def gif_layer_embed(gif_path_in: Path, gif_path_out: Path, message: bytes, passw
 
     message_bits = bytes2bits(message)
 
-    for message_bit, container_bit in zip(message_bits, gl.useful_area):
+    for message_bit, container_bit in zip(message_bits, gl.working_area):
         container_bit.write(message_bit)
         continue
 
