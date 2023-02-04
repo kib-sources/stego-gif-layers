@@ -1,10 +1,4 @@
-# stego-gif-layers
-Стеганография в слоях полноцветного GIF файла
+# <h1 align="center"> Стеганография в GIF
+### (Russian)
+___
 
-
-
-
-
-
-
-![dsdsds](https://yapx.ru/album/VdCTC)
