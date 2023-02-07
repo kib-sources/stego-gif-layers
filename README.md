@@ -23,8 +23,9 @@ _This project was written for scientific purposes and can be used by other devel
   
   
   
-  <img width="258" alt="working area" src="https://user-images.githubusercontent.com/79607195/217313042-ca239a6f-9fd3-430f-a424-85a316748c55.png">
 
+
+<img width="258" alt="working area" src="https://user-images.githubusercontent.com/79607195/217315920-af46eba7-4075-4804-b353-f44a55cc4f46.png">
 
   
   
