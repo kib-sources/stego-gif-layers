@@ -19,6 +19,7 @@ _This project was written for scientific purposes and can be used by other devel
 3. When program overwrite a gif layer, many pixels are overwritten, this is the working area
   
   ![photo_2023-02-06_13-07-52](https://user-images.githubusercontent.com/79607195/216943934-55944e4d-6070-4085-97f3-602b3e7503a3.jpg)
+![working area](https://user-images.githubusercontent.com/79607195/217311894-c0191f92-62f5-4c74-9d34-96499a47343b.png)
 
   
   
