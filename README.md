@@ -24,8 +24,9 @@ _This project was written for scientific purposes and can be used by other devel
   
   
 
+![working area](https://user-images.githubusercontent.com/79607195/217544861-c7717025-eab1-4033-ba13-b1ffc0b38789.png)
 
-<img width="258" alt="working area" src="https://user-images.githubusercontent.com/79607195/217315920-af46eba7-4075-4804-b353-f44a55cc4f46.png">
+
 
   
   
